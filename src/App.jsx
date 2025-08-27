@@ -29,7 +29,7 @@ const App = () => {
 
   return (
     <div className="flex justify-center items-center h-screen ">
-      <div className="lg:w-full w-[95%] bg-white p-4 rounded-lg shadow-lg">
+      <div className="lg:w-[40%] w-[95%] bg-white p-4 rounded-lg shadow-lg">
         <h1 className="p-2 border-2 border-amber-400 text-center font-bold mb-2 text-xl rounded-lg bg-amber-200">Quiz Sejarah Kemerdekaan Indonesia</h1>
 
         {showScore ? (
